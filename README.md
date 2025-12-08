@@ -155,4 +155,4 @@ Trang Le
 📄 License
 MIT — sử dụng tự do cho nghiên cứu, học thuật và ứng dụng nội bộ.
 
-xin chào cả nhà 
+xin chào cả nhà Tien ngu
