@@ -77,6 +77,8 @@ filtered_rules = rules[
     (rules['confidence'] >= 0.5) &
     (rules['lift'] >= 2.0)
 ]
+```
+
 ### 5. Trực quan hóa (Visualization)
 
 **Hình 1:** Biểu đồ Network Graph của 73 luật mạnh nhất. Các cụm sản phẩm (Communities) tách biệt rõ ràng: Nhóm Tách trà, Nhóm Túi Jumbo, Nhóm Trang trí Giáng sinh.
