@@ -3,8 +3,8 @@
 ## 👥 Thông tin Nhóm
 - **Nhóm:** [TAM ĐẠI QUỶ VƯƠNG]
 - **Thành viên:** - [Nguyễn Phương Nam]
-  - [Trần Mạnh Tiến]
-  - [Phạm văn Huy]
+                  - [Trần Mạnh Tiến]
+                  - [Phạm văn Huy]
 - **Chủ đề:** Phân tích luật kết hợp (Association Rules) để tối ưu chiến lược bán chéo (Cross-sell).
 - **Dataset:** Online Retail (UCI Machine Learning Repository) - Tập trung vào thị trường UK.
 
